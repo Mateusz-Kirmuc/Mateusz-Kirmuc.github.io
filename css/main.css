@@ -97,3 +97,19 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.snake-logo {
+  background-image: url("../img/snake_project_img.png");
+}
+
+.neighbourhood-map-logo {
+  background-image: url("../img/ngh-map-logo.png");
+}
+
+.pizzeria-logo {
+  background-image: url("../img/pizzeria-logo.png");
+}
+
+.coming-soon-logo {
+  background-image: url("../img/coming-soon-logo.png");
+}
