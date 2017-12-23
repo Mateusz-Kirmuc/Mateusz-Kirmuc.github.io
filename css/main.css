@@ -78,6 +78,13 @@ body {
 }
 
 
+/* project container styling */
+
+.project-container {
+  margin-bottom: 30px;
+}
+
+
 /* project logo styling */
 
 .project-logo {
