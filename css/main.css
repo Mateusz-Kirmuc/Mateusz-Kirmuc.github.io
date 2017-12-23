@@ -37,9 +37,17 @@ header {
   margin: 0;
 }
 
-.logo {
+
+/* profile image styling */
+
+.profile-image {
   width: 100px;
   height: 100px;
+  background-image: url("../img/profile_image.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  border: solid #7d97ad;
 }
 
 body {
