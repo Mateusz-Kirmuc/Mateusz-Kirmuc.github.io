@@ -47,6 +47,8 @@ body {
   padding: 20px 0;
   text-align: center;
   font-family: 'Raleway', sans-serif;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .work {
@@ -73,4 +75,18 @@ body {
 
 .github-url {
   color: #2d3c49;
+}
+
+
+/* project logo styling */
+
+.project-logo {
+  width: 256px;
+  height: 256px;
+  border: solid #7d97ad;
+  margin: auto;
+  border-radius: 50%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
